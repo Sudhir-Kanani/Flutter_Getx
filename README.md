@@ -1,8 +1,10 @@
 # flutter_getx
 
 Flutter GetX
--Snackbar
--Dialog
+- Snackbar
+- Dialog
+- Bottomsheet
+- un Named Routes
 
 ## Getting Started
 
